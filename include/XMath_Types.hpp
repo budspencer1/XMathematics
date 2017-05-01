@@ -18,7 +18,6 @@ namespace XMathematics
 {
 	namespace Types
 	{
-		typedef fuk;
 		typedef int XMath_Int32;						/* normal (signed) 32-bit integer */
 		typedef unsigned int XMath_Uint32;				/* unsigned 32-bit integer */
 		typedef long long XMath_Int64;					/* (signed) 64-bit integer */
