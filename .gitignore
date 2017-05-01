@@ -20,7 +20,11 @@ $RECYCLE.BIN/
 # folders
 /Debug
 /Release
-/vc
+/.vs
+
+# visual studio files
+*.db
+*.opendb
 
 # =========================
 # Operating System Files
