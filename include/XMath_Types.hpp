@@ -1,3 +1,14 @@
+/*
+ * Project Name:					XMathematics C++ Library
+ * File Name:						XMath_Types.hpp
+ * Author:							Sebastian <3
+ * Date (Created):					01.05.2017
+ * Date (Last Modified):			01.05.2017
+ *	
+ * Purpose/Description:				DEFINE LIBRARIES DATATYPE ALIASES (GLOBAL OF COURSE)
+*/
+
+
 #pragma once
 
 #ifndef XMATH_TYPES_HPP
