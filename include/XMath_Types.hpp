@@ -16,13 +16,17 @@
 
 namespace XMathematics
 {
-	typedef int XMath_Int32;						/* normal (signed) 32-bit integer */
-	typedef unsigned int XMath_Uint32;				/* unsigned 32-bit integer */
-	typedef long long XMath_Int64;					/* (signed) 64-bit integer */
-	typedef unsigned long long XMath_Uint64;		/* unsigned 64-bit integer */
-	typedef float XMath_Float;						/* floating point number */
-	typedef double XMath_Double;					/* floating point with double precision */
-	typedef long double XMath_LongDouble;			/* long double datatype */
+	namespace Types
+	{
+		typedef fuk;
+		typedef int XMath_Int32;						/* normal (signed) 32-bit integer */
+		typedef unsigned int XMath_Uint32;				/* unsigned 32-bit integer */
+		typedef long long XMath_Int64;					/* (signed) 64-bit integer */
+		typedef unsigned long long XMath_Uint64;		/* unsigned 64-bit integer */
+		typedef float XMath_Float;						/* floating point number */
+		typedef double XMath_Double;					/* floating point with double precision */
+		typedef long double XMath_LongDouble;			/* long double datatype */
+	};
 };
 
 #endif
